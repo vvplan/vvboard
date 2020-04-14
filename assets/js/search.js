@@ -47,7 +47,7 @@ jtd.onReady = function(ready) {
 
 function initSearch() {
     var request = new XMLHttpRequest();
-    request.open('GET', '/fastpagesJupyter/assets/js/search-data.json', true);
+    request.open('GET', '/vvboard/assets/js/search-data.json', true);
   
     request.onload = function(){
       if (request.status >= 200 && request.status < 400) {

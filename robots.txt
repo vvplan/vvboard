@@ -1,1 +1,1 @@
-Sitemap: /fastpagesJupyter/sitemap.xml
+Sitemap: /vvboard/sitemap.xml
