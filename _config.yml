@@ -10,7 +10,7 @@ title: 中文博客模板
 description: 便捷实用的Jupyter博客网站。此外，还支持 Word 文档，以及 Markdown。
 github_username: EasonQYS  # 你的用户名
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpagesJupyter" #你的仓库名
+github_repo: "vvboardJupyter" #你的仓库名
 
 # OPTIONAL: override baseurl and url if using a custom domain 可选项，如果你有自己的域名，并且需要绑定到该网站
 # Note: leave out the trailing / from this value.  写下域名，不要在最后加斜杠/ 
