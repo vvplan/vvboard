@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/vvboard/2020/01/01/Microsoft-Word-Example-Post.html</loc>
-<lastmod>2020-01-01T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>/vvboard/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
@@ -17,16 +13,20 @@
 <lastmod>2020-03-06T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>/vvboard/2020/04/10/%E8%99%9A%E8%B0%B7%E5%8F%B7Jupyter%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.html</loc>
+<lastmod>2020-04-10T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>/vvboard/2020/04/12/%E4%BD%A0%E5%A5%BD.html</loc>
 <lastmod>2020-04-12T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>/vvboard/2020/04/13/%E6%AC%A2%E8%BF%8E-MS-Word.html</loc>
-<lastmod>2020-04-13T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>/vvboard/jupyter/%E4%B8%AD%E6%96%87/%E6%AC%A2%E8%BF%8E/2020/04/14/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8-Jupyter.html</loc>
 <lastmod>2020-04-14T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>/vvboard/2020/04/15/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html</loc>
+<lastmod>2020-04-15T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>/vvboard/about/</loc>
@@ -35,7 +35,16 @@
 <loc>/vvboard/</loc>
 </url>
 <url>
+<loc>/vvboard/log/</loc>
+</url>
+<url>
+<loc>/vvboard/resource/</loc>
+</url>
+<url>
 <loc>/vvboard/search/</loc>
+</url>
+<url>
+<loc>/vvboard/story/</loc>
 </url>
 <url>
 <loc>/vvboard/categories/</loc>
