@@ -44,11 +44,11 @@ permalink: /story/
 
 2018年5月4日——第一块虚谷号（测试版）正式亮相！
 
-.. image:: ../images/01/vvboard01.jpg
+.. image:: ../images/about/vvboard01.jpg
 
 2019年6月，虚谷号开始量产，并通过猫友汇邀请全国的信息技术教师、教育创客共同测试，获得好评。
 
-.. image:: ../images/01/vvboard02.jpg
+.. image:: ../images/about/vvboard02.jpg
 
 
 

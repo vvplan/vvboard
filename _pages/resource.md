@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 简介
+title: 资源
 permalink: /resource/
 ---
 
-## 链接
+## 资源链接
 
 ### 使用文档
 	- 开源地址：[Github](https://github.com/vvlink/vvBoard-docs)

@@ -11,3 +11,5 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+# 去除mac中的奇怪文件
+*.DS_Store 
