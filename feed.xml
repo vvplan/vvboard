@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/vvboard/feed.xml" rel="self" type="application/atom+xml" /><link href="/vvboard/" rel="alternate" type="text/html" /><updated>2020-04-15T00:56:51-05:00</updated><id>/vvboard/feed.xml</id><title type="html">虚谷计划之虚谷号</title><subtitle>虚谷计划旗下的开源硬件项目。</subtitle><entry><title type="html">虚谷号快速入门</title><link href="/vvboard/2020/04/15/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html" rel="alternate" type="text/html" title="虚谷号快速入门" /><published>2020-04-15T00:00:00-05:00</published><updated>2020-04-15T00:00:00-05:00</updated><id>/vvboard/2020/04/15/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8</id><content type="html" xml:base="/vvboard/2020/04/15/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html">&lt;p&gt;&lt;strong&gt;虚谷号快速入门（V1.2）&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/vvboard/feed.xml" rel="self" type="application/atom+xml" /><link href="/vvboard/" rel="alternate" type="text/html" /><updated>2020-04-15T01:00:20-05:00</updated><id>/vvboard/feed.xml</id><title type="html">虚谷计划之虚谷号</title><subtitle>虚谷计划旗下的开源硬件项目。</subtitle><entry><title type="html">虚谷号快速入门</title><link href="/vvboard/2020/04/15/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html" rel="alternate" type="text/html" title="虚谷号快速入门" /><published>2020-04-15T00:00:00-05:00</published><updated>2020-04-15T00:00:00-05:00</updated><id>/vvboard/2020/04/15/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8</id><content type="html" xml:base="/vvboard/2020/04/15/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.html">&lt;p&gt;&lt;strong&gt;虚谷号快速入门（V1.2）&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;文档撰写 谢作如&lt;/strong&gt;&lt;/p&gt;
 
@@ -282,4 +282,46 @@
 
 &lt;p&gt;4）在Jupyter上，如何做交互，比如输入字符之类。&lt;/p&gt;
 
-&lt;p&gt;不仅可以直接在网页上输入，还能够利用Jupyter的网页小控件，做文本框、选择框等。图片也可以直接显示在网页上。&lt;/p&gt;</content><author><name></name></author><summary type="html">虚谷号Jupyter入门教程</summary></entry></feed>
+&lt;p&gt;不仅可以直接在网页上输入，还能够利用Jupyter的网页小控件，做文本框、选择框等。图片也可以直接显示在网页上。&lt;/p&gt;</content><author><name></name></author><summary type="html">虚谷号Jupyter入门教程</summary></entry><entry><title type="html">虚谷号助力中小学人工智能教育</title><link href="/vvboard/2019/08/24/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%8A%A9%E5%8A%9B%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%99%E8%82%B2.html" rel="alternate" type="text/html" title="虚谷号助力中小学人工智能教育" /><published>2019-08-24T00:00:00-05:00</published><updated>2019-08-24T00:00:00-05:00</updated><id>/vvboard/2019/08/24/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%8A%A9%E5%8A%9B%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%99%E8%82%B2</id><content type="html" xml:base="/vvboard/2019/08/24/%E8%99%9A%E8%B0%B7%E5%8F%B7%E5%8A%A9%E5%8A%9B%E4%B8%AD%E5%B0%8F%E5%AD%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%99%E8%82%B2.html">&lt;p&gt;虚谷号助力中小学人工智能教育&lt;/p&gt;
+
+&lt;p&gt;2019年8月24-28日，由博识STEAM创客公园主办的2019中小学创客指导师“人工智能教育和创客马拉松”专题研修班培训活动在温州市教师教育院雁荡分院举行。期间，有来自福鼎市、周宁县、屏南县等公办学校共77位教师参加此次培训活动。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/vvboard/assets/img/2019-08-24-虚谷号助力中小学人工智能教育/media/image1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;培训期间，谢作如老师就虚谷号在中小学编程教育和人工智能教育方面的应用进行研讨，重点关注“视觉识别”方面。他从虚谷号编程零基础入门开始，对虚谷号的U盘模式、无线模式、PC模式以及混合模式分别进行了讲解使用。&lt;/p&gt;
+
+&lt;p&gt;希科普公司为培训准备了标准的创客版，2人一套器材。培训现场教师们以U盘模式和无线模式为主，体验了虚谷号的基本操作，从点亮LED指示灯开始，介绍了虚谷号的GPIO编程，以及如何通过jupyter来管理、配置虚谷号，并且在线调试Python程序等。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/vvboard/assets/img/2019-08-24-虚谷号助力中小学人工智能教育/media/image2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图为谢作如老师讲课中&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/vvboard/assets/img/2019-08-24-虚谷号助力中小学人工智能教育/media/image3.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图为谢作如老师讲课中&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/vvboard/assets/img/2019-08-24-虚谷号助力中小学人工智能教育/media/image4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图为谢作如老师讲课中&lt;/p&gt;
+
+&lt;p&gt;谢老师认为，虚谷号其实是一个融合了上位机和下位机功能的迷你电脑,学生通过虚谷号可以快捷地移植各种AI应用，搭建出精彩的创客作品。虚谷号的U盘模式和无线模式让虚谷号进入普通机房，实施教学成为可能。老师们听得津津有味，并踊跃举手发言和谢老师进行课堂互动，对虚谷号的教学功能提出很多建设性意见。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/vvboard/assets/img/2019-08-24-虚谷号助力中小学人工智能教育/media/image5.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图为谢作如老师与参加培训的老师互动中&lt;/p&gt;
+
+&lt;p&gt;本次参加培训的老师中，有相当一部分来自小学，还有一部分是非信息技术教师。他们对虚谷号可以不接显示器和鼠标键盘的方式评价很高，认为这样的开源硬件的入门门槛很低，同时又随时可以当作一台电脑来使用，对中小学的创客教育有着重要的价值。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/vvboard/assets/img/2019-08-24-虚谷号助力中小学人工智能教育/media/image6.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图为谢作如老师与参加培训的老师进行虚谷号操作示范&lt;/p&gt;
+
+&lt;p&gt;培训结束，谢作如老师和希科普公司的虚谷号项目负责人徐春先生，以及参加本次培训的老师们合影留念。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/vvboard/assets/img/2019-08-24-虚谷号助力中小学人工智能教育/media/image7.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图为谢作如老师和徐春先生&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/vvboard/assets/img/2019-08-24-虚谷号助力中小学人工智能教育/media/image8.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图为此次培训班集体照&lt;/p&gt;</content><author><name></name></author><summary type="html">虚谷号助力中小学人工智能教育</summary></entry></feed>
